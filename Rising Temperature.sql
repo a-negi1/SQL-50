@@ -6,4 +6,4 @@ where exists (
         datediff(today.recordDate,yesterday.recordDate) = 1
 
 )
-    
+-- nested query  
